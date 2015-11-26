@@ -1,2 +1,1 @@
-# starting-nodejs
-My first project test with NodeJs + Express + MongoDB
+# Create API REST with NodeJs + Express  + MongoDB
